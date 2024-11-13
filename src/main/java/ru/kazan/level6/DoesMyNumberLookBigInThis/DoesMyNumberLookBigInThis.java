@@ -14,6 +14,6 @@ public class DoesMyNumberLookBigInThis {
     }
 
     public static void main(String[] args) {
-        System.out.println(isNarcissistic(1533));
+        System.out.println(isNarcissistic(120));
     }
 }
